@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Senior Cloud Engineer specializing in Azure and AWS governance, security, and cost optimization, currently delivering cloud access control, PIM governance, and infrastructure enablement at the Canada Revenue Agency. Focus areas include monthly Privileged Identity Management audits, Terraform-based custom role design in Azure, and AWS managed/inline IAM policy configurations for permission sets aligned to least-privilege standards. Recent impact includes streamlining Azure DevOps licensing to save $125K annually, hardening Entra ID/Azure RBAC with policy and role automation, and overseeing Entrust/ICA certificate renewals for firewalls, enterprise apps, and key vaults in regulated environments.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
