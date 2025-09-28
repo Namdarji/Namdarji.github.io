@@ -1,7 +1,6 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
-image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
-external_url: https://github.com/yousinix
+name: Bachhpan – NGO Management Android Application
+tools: [Android SDK, Java, SQLite, XML]
+image: /assets/images/projects/bachhpan.png
+description: An Android application designed for the NGO *Bachhpan* to streamline Pathshala management, including attendance tracking, student performance monitoring, volunteer scheduling, and campaign management.
 ---
